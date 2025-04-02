@@ -1,0 +1,126 @@
+{
+    "Executive_Summary": {
+        "Revenue": "IBM generated total revenue of $62.75 billion in FY 2024, with a gross profit of $35.55 billion.",
+        "Profitability": "Operating income of $5.9 billion, net income of $6.02 billion, and EBIT of $7.52 billion.",
+        "Cash_Flow": "Strong operating cash flow of $13.45 billion, with solid dividend payouts of $6.15 billion.",
+        "Balance_Sheet": "Total assets of $137.18 billion with substantial goodwill and intangible assets. Debt-to-equity ratio of 4.02."
+    },
+    "Income_Statement": {
+        "FY_2024": {
+            "Total_Revenue": "62.75 billion USD",
+            "Gross_Profit": "35.55 billion USD",
+            "Operating_Income": "5.9 billion USD",
+            "Net_Income": "6.02 billion USD",
+            "EBIT": "7.52 billion USD",
+            "EBITDA": "10.02 billion USD",
+            "Interest_Expense": "1.71 billion USD",
+            "Research_And_Development": "7.48 billion USD",
+            "Selling_General_And_Administrative": "19.69 billion USD"
+        },
+        "FY_2023": {
+            "Total_Revenue": "61.86 billion USD",
+            "Gross_Profit": "34.3 billion USD",
+            "Operating_Income": "6.98 billion USD",
+            "Net_Income": "7.50 billion USD",
+            "EBIT": "10.29 billion USD",
+            "EBITDA": "12.57 billion USD",
+            "Interest_Expense": "1.61 billion USD",
+            "Research_And_Development": "6.78 billion USD",
+            "Selling_General_And_Administrative": "19.00 billion USD"
+        }
+    },
+    "Balance_Sheet": {
+        "FY_2024": {
+            "Total_Assets": "137.18 billion USD",
+            "Total_Liabilities": "109.78 billion USD",
+            "Shareholder_Equity": "27.31 billion USD",
+            "Debt_to_Equity": "4.02",
+            "Current_Assets": "34.48 billion USD",
+            "Non_Current_Assets": "101.99 billion USD",
+            "Goodwill": "60.71 billion USD",
+            "Intangible_Assets": "71.37 billion USD"
+        },
+        "FY_2023": {
+            "Total_Assets": "135.24 billion USD",
+            "Total_Liabilities": "112.63 billion USD",
+            "Shareholder_Equity": "22.53 billion USD",
+            "Debt_to_Equity": "5.00",
+            "Current_Assets": "32.91 billion USD",
+            "Non_Current_Assets": "101.30 billion USD",
+            "Goodwill": "60.18 billion USD",
+            "Intangible_Assets": "71.21 billion USD"
+        }
+    },
+    "Cash_Flow_Statement": {
+        "FY_2024": {
+            "Operating_Cashflow": "13.45 billion USD",
+            "Capital_Expenditures": "1.05 billion USD",
+            "Dividend_Payout": "6.15 billion USD",
+            "Cashflow_From_Investment": "-4.94 billion USD",
+            "Cashflow_From_Financing": "-7.08 billion USD",
+            "Proceeds_From_Long_Term_Debt": "5.71 billion USD",
+            "Net_Income": "6.02 billion USD"
+        },
+        "FY_2023": {
+            "Operating_Cashflow": "13.93 billion USD",
+            "Capital_Expenditures": "1.25 billion USD",
+            "Dividend_Payout": "6.04 billion USD",
+            "Cashflow_From_Investment": "-7.07 billion USD",
+            "Cashflow_From_Financing": "-1.77 billion USD",
+            "Proceeds_From_Long_Term_Debt": "9.59 billion USD",
+            "Net_Income": "7.50 billion USD"
+        }
+    },
+    "Statement_of_Shareholders_Equity": {
+        "FY_2024": {
+            "Retained_Earnings": "151.16 billion USD",
+            "Common_Stock": "61.38 billion USD",
+            "Treasury_Stock": "169.97 billion USD",
+            "Shares_Outstanding": "926,290,070"
+        },
+        "FY_2023": {
+            "Retained_Earnings": "151.28 billion USD",
+            "Common_Stock": "59.64 billion USD",
+            "Treasury_Stock": "169.62 billion USD",
+            "Shares_Outstanding": "915,013,646"
+        }
+    },
+    "Budget_vs_Actual_Analysis": {
+        "Revenue_Performance": "Revenue for FY 2024 exceeded expectations, growing by 6.4% compared to FY 2023.",
+        "Operating_Income_Performance": "Operating income in FY 2024 remained consistent with budget projections, despite some increases in expenses.",
+        "Tax_Considerations": "Tax expense in FY 2024 reflects favorable positioning in the market, optimizing the overall tax strategy."
+    },
+    "Key_Performance_Indicators": {
+        "Revenue_Growth": "6.4% year-over-year increase in revenue.",
+        "Operating_Margin": "Operating income margin of 9.4%.",
+        "EBIT_Margin": "EBIT margin of approximately 12%.",
+        "Debt_to_Equity": "4.02 (indicating high financial leverage).",
+        "Dividend_Payout": "Robust dividend payout of $6.15 billion."
+    },
+    "Management_Discussion_and_Analysis": {
+        "Strategic_Focus": "IBM is focusing on advancing AI, cloud, and innovation to remain competitive in the technology sector.",
+        "Growth_Opportunities": "The company continues to invest in cutting-edge technologies and acquisitions to drive future growth.",
+        "Operational_Challenges": "IBM has navigated challenges like inflation and market volatility while maintaining profitability."
+    },
+    "Financial_Ratios_and_Analysis": {
+        "Gross_Profit_Margin": "56.6%",
+        "Operating_Margin": "9.4%",
+        "Debt_to_Equity_Ratio": "4.02",
+        "Return_on_Assets": "0% (as reported, no ROA value available)."
+    },
+    "Audit_Report": "Not available in the provided data.",
+    "Tax_Considerations": {
+        "Tax_Strategy": "IBM’s tax strategies appear to have minimized overall tax expenses in FY 2024, contributing to profitability."
+    },
+    "Management_Financial_Strategy": {
+        "Focus_Areas": "Capital efficiency, leveraging debt for growth, investing in innovation, and maximizing shareholder returns.",
+        "Dividend_Strategy": "Maintain robust dividends while investing in R&D and acquisitions for long-term growth."
+    },
+    "Notes_to_Financial_Statements": {
+        "Note_1": "The company has a high reliance on intangible assets and goodwill, amounting to over $60 billion in FY 2024.",
+        "Note_2": "The significant increase in operating income for FY 2024 was partly due to enhanced operational efficiency despite rising operating expenses.",
+        "Note_3": "There is an ongoing focus on managing debt levels. The company’s debt-to-equity ratio has remained high at 4.02 in FY 2024, though manageable through effective cash flows.",
+        "Note_4": "IBM has strategic investments in R&D, which have been increasing annually to foster long-term growth and technological advancements.",
+        "Note_5": "Dividends were consistent year over year, reflecting the company’s commitment to shareholder returns despite substantial capital expenditures."
+    }
+}

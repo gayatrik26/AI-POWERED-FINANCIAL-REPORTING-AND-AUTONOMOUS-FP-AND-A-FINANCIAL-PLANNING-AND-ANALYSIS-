@@ -1,0 +1,12 @@
+node_modules/
+logs/
+*.log
+.env
+dist/
+build/
+.idea/
+.vscode/
+coverage/
+backend/data_processing/financial_reports/
+venv/
+env-financial-reporting/
